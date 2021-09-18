@@ -1,1 +1,1 @@
-# c22_Archery_Game
+# project-C22-template
